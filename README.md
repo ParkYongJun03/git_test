@@ -4,7 +4,7 @@
 TortoiseSVN 사용방법
  
 1. 동기화할 폴더 생성 혹은 선택
-2. ![link_gitIMG2](https://user-images.githubusercontent.com/83456300/170191966-91238e86-9910-4653-a2a0-7dd3c18bfa6d.jpg)
+2. ![link_gitIMG2](https://user-images.githubusercontent.com/83456300/170194834-32ddeec4-0b5b-4f88-bf24-ba524005d191.jpg)
 3. 폴더 우클릭 후 SVN 체크아웃 선택
 4. 팝업창의 저장소 url 입력
 5. 사용자명과 암호 입력
